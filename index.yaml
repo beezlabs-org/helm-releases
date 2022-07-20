@@ -3,9 +3,9 @@ entries:
   cloudflare-tunnel-operator:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2022-07-18T14:36:57.150773712Z"
+    created: "2022-07-20T08:26:39.708094729Z"
     description: A Helm chart for cloudflare-tunnel-operator
-    digest: 2bd6e7adc5b959f6364f08ce4d3c89191979326b2b89514e9cf796e38e8b3963
+    digest: f93a69ba4c48a99db4fec949bcd5315acca098e5c9d751c5b99f60f4f8e60de3
     home: https://github.com/beezlabs-org/cloudflare-tunnel-operator
     maintainers:
     - email: sayak@beezlabs.com
@@ -16,4 +16,4 @@ entries:
     urls:
     - https://charts.beezlabs.app/cloudflare-tunnel-operator/cloudflare-tunnel-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2022-07-18T14:36:57.150012278Z"
+generated: "2022-07-20T08:26:39.707313208Z"
