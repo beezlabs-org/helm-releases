@@ -2,8 +2,23 @@ apiVersion: v1
 entries:
   cloudflare-tunnel-operator:
   - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2023-01-09T19:11:47.092190666Z"
+    description: A Helm chart for cloudflare-tunnel-operator
+    digest: 336a2541f0b77266e79d4fd7a1e895e7f6eca5e5de493497c4bda7e05a0a7019
+    home: https://github.com/beezlabs-org/cloudflare-tunnel-operator
+    maintainers:
+    - email: sayak@beezlabs.com
+      name: Sayak Mukhopadhyay
+      url: https://www.beezlabs.com
+    name: cloudflare-tunnel-operator
+    type: application
+    urls:
+    - https://charts.beezlabs.app/cloudflare-tunnel-operator/cloudflare-tunnel-operator-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-01-09T18:39:12.993308679Z"
+    created: "2023-01-09T19:11:47.092683894Z"
     description: A Helm chart for cloudflare-tunnel-operator
     digest: b332b26dce3c47d73974b2de6f06648d6ea445109052e86c317d053b307542eb
     home: https://github.com/beezlabs-org/cloudflare-tunnel-operator
@@ -18,7 +33,7 @@ entries:
     version: v0.2.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-01-09T18:39:12.992557372Z"
+    created: "2023-01-09T19:11:47.091663136Z"
     description: A Helm chart for cloudflare-tunnel-operator
     digest: 76e1d1b6e15109f56098238ead3f6ac30248513bc78f99674702762fd86d5725
     home: https://github.com/beezlabs-org/cloudflare-tunnel-operator
@@ -33,7 +48,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-01-09T18:39:12.991740965Z"
+    created: "2023-01-09T19:11:47.091122905Z"
     description: A Helm chart for cloudflare-tunnel-operator
     digest: 8994db11cecd18e79cf4c76828bc4d60bbf2e7f8488d7a9fa6aa231dd8201832
     home: https://github.com/beezlabs-org/cloudflare-tunnel-operator
@@ -46,4 +61,4 @@ entries:
     urls:
     - https://charts.beezlabs.app/cloudflare-tunnel-operator/cloudflare-tunnel-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-09T18:39:12.990516354Z"
+generated: "2023-01-09T19:11:47.09034176Z"
