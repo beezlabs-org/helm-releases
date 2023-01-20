@@ -18,21 +18,6 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2023-01-09T19:11:47.092683894Z"
-    description: A Helm chart for cloudflare-tunnel-operator
-    digest: b332b26dce3c47d73974b2de6f06648d6ea445109052e86c317d053b307542eb
-    home: https://github.com/beezlabs-org/cloudflare-tunnel-operator
-    maintainers:
-    - email: sayak@beezlabs.com
-      name: Sayak Mukhopadhyay
-      url: https://www.beezlabs.com
-    name: cloudflare-tunnel-operator
-    type: application
-    urls:
-    - https://charts.beezlabs.app/cloudflare-tunnel-operator/cloudflare-tunnel-operator-v0.2.0.tgz
-    version: v0.2.0
-  - apiVersion: v2
-    appVersion: 0.1.1
     created: "2023-01-09T19:11:47.091663136Z"
     description: A Helm chart for cloudflare-tunnel-operator
     digest: 76e1d1b6e15109f56098238ead3f6ac30248513bc78f99674702762fd86d5725
